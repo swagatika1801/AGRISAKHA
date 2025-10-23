@@ -23,3 +23,20 @@ It bridges the gap between farmers and technology by offering easy access to agr
 
 ## 📂 Folder Structure
 
+agrisakha/
+│
+├── index.html
+├── index.css
+├── index.js
+├── agriculture.html
+├── agriculture.css
+├── agriculture.js
+├── register.html
+├── firebase-config.js
+└── assets/
+├── logo.jpeg
+└── agriculture.jpeg
+
+💬 About the Project
+
+AgriSakha was built to empower farmers through technology. It’s a step toward sustainable, digital agriculture where knowledge and tools are easily accessible.
